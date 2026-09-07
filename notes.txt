@@ -1,2 +1,3 @@
 Today I learned Git and GitHub.
 I practiced creating and pushing a repository.
+I am learning how to use Git commands.
