@@ -1,0 +1,2 @@
+Today I learned Git and GitHub.
+I practiced creating and pushing a repository.
